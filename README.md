@@ -21,5 +21,3 @@
     Replace movies.json and X_reduced.npy with your real artifacts exported
     from the Python pipeline for accurate recommendations.
 
-# DEMO:
-![alt text](image.png)
