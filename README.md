@@ -20,4 +20,6 @@
   - This demo uses random vectors for X_reduced.npy and a tiny movies.json
     Replace movies.json and X_reduced.npy with your real artifacts exported
     from the Python pipeline for accurate recommendations.
+# Checkout:
+  - Live-link: https://movieyappa-6.onrender.com
 
