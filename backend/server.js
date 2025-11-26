@@ -7,6 +7,10 @@ const cors = require("cors");
 const cosine = require("cosine-similarity");
 
 const app = express();
+app.get("/", (req, res) => {
+  res.status(200).send("Backend is live!");
+});
+
 app.use(cors());
 
 const PORT = 5000;
