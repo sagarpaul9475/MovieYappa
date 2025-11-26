@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const API_URL = "http://localhost:5000/recommend";
+const API_URL = "https://movieyappa-4.onrender.com/recommend";
 
 export default function App() {
   const [query, setQuery] = useState("");
